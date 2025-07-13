@@ -1,2 +1,3 @@
 arch dots
-- `./hypr` Hyprland Configs
+- `./hypr` Hyprland configs
+- `./waybar` Waybar configs
